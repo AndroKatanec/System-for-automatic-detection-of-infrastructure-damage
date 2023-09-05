@@ -25,6 +25,6 @@ Now the Docker container is up and running, to start simulation navigate to ```s
 ```
 ./start.sh
 ```
-This start Gazebo simulator with a model of an Osijek pedestrian bridge with randomly placed tiles with cracks on it:
+This starts Gazebo simulator with a model of an Osijek pedestrian bridge with randomly placed tiles with cracks on it:
 
 ![simulacija_screen](https://github.com/AndroKatanec/System-for-automatic-detection-of-infrastructure-damage/assets/73703833/7e854891-3c56-42ed-bb58-c584408996a2)
