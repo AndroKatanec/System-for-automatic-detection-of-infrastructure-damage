@@ -1,5 +1,4 @@
 # System for automatic detection of infrastructure damage
-This repository contains ROS packages for the implementation of a system for automatic detection of infrastructure damage in Gazebo simulator.
 ## Overview
 This project was done as part of my Master's thesis at University of Zagreb, Faculty of Electrical Engineering and Computing. 
 The repository contains all the instructions and files necessary for running simulation of automatic detection on infrastructure damage in Gazebo simulator, on a model of an Osijek pedestrian bridge.
